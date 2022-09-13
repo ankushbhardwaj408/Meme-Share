@@ -1,25 +1,20 @@
-# Tip Calculator 
+# Meme Share 
 
 ## *Ankush Bhardwaj*
 
-**Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
+**Memify** is used to enjoy amazing memes and allows you to share them.
 
-Time spent: **16** hours spent in total
+Time spent: **26** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [x] User can enter in a bill amount (total amount to tip on)
-* [x] User can enter a tip percentage (what % the user wants to tip).
-* [x] The tip and total amount are updated immediately when any of the inputs changes.
-* [x] The user sees a label or color update based on the tip amount. 
+* [x] User can click on the next button to see next meme.
+* [x] User can click on the share button to share the meme.
 
-The following **extensions** are implemented:
-
-* [x] Custom colors palette selected
-* [x] User can enter number of people(To split the bill between the number of people entered).
-* [x] The amount Per Person is upadted immediately when the input changes.
+## Requirements
+* [x] Moblie phone should have internet connectivity.
 
 ## Video Walkthrough
 
