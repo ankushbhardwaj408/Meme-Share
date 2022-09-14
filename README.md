@@ -4,7 +4,7 @@
 
 **Memify** is used to enjoy amazing memes and allows you to share them.
 
-Time spent: **26** hours spent in total
+Time spent: **16** hours spent in total
 
 ## Functionality 
 
